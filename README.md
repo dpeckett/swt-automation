@@ -1,0 +1,2 @@
+# swt-automation
+Silly experiments
